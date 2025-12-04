@@ -1,0 +1,23 @@
+// $grid-breakpoints: (
+//   sm: 576px,
+//   md: 768px,
+//   xl: 1200px,
+// );
+
+p {
+  display: flex;
+  background-color: rgb(255, 196, 0);
+  margin-top: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  justify-content: center;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+.container-2 {
+}
